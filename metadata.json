@@ -1,0 +1,5 @@
+{
+  "name": "Class Tracker System",
+  "description": "A comprehensive system to manage semesters, courses, students, and track class attendance and completion. Features include a dashboard overview, calendar view, and reporting capabilities.",
+  "requestFramePermissions": []
+}
